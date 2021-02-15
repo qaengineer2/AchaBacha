@@ -9,6 +9,9 @@
   "author": "Aneeq Khan",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^6.2.0"
+    "dayjs": "^1.10.4"
+  },
+  "devDependencies": {
+    "cypress": "^6.4.0"
   }
 }
